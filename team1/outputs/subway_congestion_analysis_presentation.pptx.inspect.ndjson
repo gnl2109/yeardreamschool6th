@@ -1,0 +1,549 @@
+{"kind":"deck","id":"pr/7ywqak","name":"Deck"}
+{"kind":"layout","layoutId":"a3cf7bd0-5185-4fc5-b4c5-f5f90df5e057","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3b989a65-5d99-4828-81fc-384e92be8b87","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/wb8die","slide":1,"title":"서울 지하철","textShapes":13}
+{"kind":"textbox","id":"sh/7u54zido","slide":1,"text":"서울 지하철","textPreview":"서울 지하철","textChars":6,"textLines":1,"bbox":[42,54,900,56]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":1,"text":"승하차 혼잡도 분석","textPreview":"승하차 혼잡도 분석","textChars":10,"textLines":1,"bbox":[42,118,980,86]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":1,"text":"피크 시간대 · 고혼잡 역 · 승하차 흐름 유형 기반 운영 우선순위 제안","textPreview":"피크 시간대 · 고혼잡 역 · 승하차 흐름 유형 기반 운영 우선순위 제안","textChars":40,"textLines":1,"bbox":[48,230,980,38]}
+{"kind":"shape","id":"sh/eloj2t83","slide":1,"bbox":[52,405,270,130]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":1,"text":"최혼잡 시간대","textPreview":"최혼잡 시간대","textChars":7,"textLines":1,"bbox":[74,425,226,28]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":1,"text":"08시-09시","textPreview":"08시-09시","textChars":7,"textLines":1,"bbox":[74,460,226,56]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":1,"bbox":[352,405,270,130]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":1,"text":"최혼잡 노선","textPreview":"최혼잡 노선","textChars":6,"textLines":1,"bbox":[374,425,226,28]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":1,"text":"2호선","textPreview":"2호선","textChars":3,"textLines":1,"bbox":[374,460,226,56]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":1,"bbox":[652,405,320,130]}
+{"kind":"textbox","id":"sh/u54zidon","slide":1,"text":"최우선 역","textPreview":"최우선 역","textChars":5,"textLines":1,"bbox":[674,425,276,28]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":1,"text":"2호선 강남","textPreview":"2호선 강남","textChars":6,"textLines":1,"bbox":[674,460,276,56]}
+{"kind":"shape","id":"sh/cbulwval","slide":1,"bbox":[1002,405,230,130]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":1,"text":"A등급 대상","textPreview":"A등급 대상","textChars":6,"textLines":1,"bbox":[1024,425,186,28]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":1,"text":"69개","textPreview":"69개","textChars":3,"textLines":1,"bbox":[1024,460,186,56]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":1,"text":"Executive summary","textPreview":"Executive summary","textChars":17,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/wb8die","slide":1,"text":""}
+{"kind":"slide","id":"sl/7a0cen","slide":2,"title":"01 SCQA","textShapes":9}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,48,240,30]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/eloj2t83","slide":2,"bbox":[709,69,94,3]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":2,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":2,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/ed8bat47","slide":2,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":2,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":2,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":2,"text":"데이터 분석 문제 정의","textPreview":"데이터 분석 문제 정의","textChars":12,"textLines":1,"bbox":[42,210,1000,95]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"text":"혼잡 완화의 질문을 운영 자원 배치 문제로 바꾼다.","textPreview":"혼잡 완화의 질문을 운영 자원 배치 문제로 바꾼다.","textChars":28,"textLines":1,"bbox":[48,325,900,70]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":2,"bbox":[42,625,1196,2]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/7a0cen","slide":2,"text":""}
+{"kind":"slide","id":"sl/rm7k1d","slide":3,"title":"01 SCQA","textShapes":18}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":3,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":3,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":3,"bbox":[709,69,94,3]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":3,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":3,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":3,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/yxobm58z","slide":3,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":3,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/g7adsji5","slide":3,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":3,"text":"SCQA: 그래서 어디에, 언제, 무엇을 해야 하는가?","textPreview":"SCQA: 그래서 어디에, 언제, 무엇을 해야 하는가?","textChars":30,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":3,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":3,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/yd0z6103","slide":3,"bbox":[78,190,112,88]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":3,"text":"S","textPreview":"S","textChars":1,"textLines":1,"bbox":[88,198,92,76]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":3,"bbox":[190,190,1008,88]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":3,"text":"서울 지하철 수요는 시간대와 역에 따라 크게 달라진다.","textPreview":"서울 지하철 수요는 시간대와 역에 따라 크게 달라진다.","textChars":30,"textLines":1,"bbox":[200,198,988,76]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":3,"bbox":[78,278,112,88]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":3,"text":"C","textPreview":"C","textChars":1,"textLines":1,"bbox":[88,286,92,76]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":3,"bbox":[190,278,1008,88]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":3,"text":"모든 역에 같은 방식으로 자원을 배치하면 실제 혼잡 지점 대응이 어렵다.","textPreview":"모든 역에 같은 방식으로 자원을 배치하면 실제 혼잡 지점 대응이 어렵다.","textChars":40,"textLines":1,"bbox":[200,286,988,76]}
+{"kind":"shape","id":"sh/xczed8v6","slide":3,"bbox":[78,366,112,88]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":3,"text":"Q","textPreview":"Q","textChars":1,"textLines":1,"bbox":[88,374,92,76]}
+{"kind":"shape","id":"sh/fyxobm58","slide":3,"bbox":[190,366,1008,88]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":3,"text":"혼잡 완화를 위해 운영 자원을 어디에, 언제, 어떤 방식으로 우선 배치해야 하는가?","textPreview":"혼잡 완화를 위해 운영 자원을 어디에, 언제, 어떤 방식으로 우선 배치해야 하는가?","textChars":46,"textLines":1,"bbox":[200,374,988,76]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":3,"bbox":[78,454,112,88]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":3,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[88,462,92,76]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":3,"bbox":[190,454,1008,88]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":3,"text":"피크 시간대와 고혼잡 역 중심의 선별적 혼잡 완화 전략이 필요하다.","textPreview":"피크 시간대와 고혼잡 역 중심의 선별적 혼잡 완화 전략이 필요하다.","textChars":37,"textLines":1,"bbox":[200,462,988,76]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":3,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/rm7k1d","slide":3,"text":""}
+{"kind":"slide","id":"sl/dn5y6g","slide":4,"title":"01 SCQA","textShapes":24}
+{"kind":"textbox","id":"sh/neloj2t8","slide":4,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":4,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":4,"bbox":[709,69,94,3]}
+{"kind":"textbox","id":"sh/u54zidon","slide":4,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":4,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/cbulwval","slide":4,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/5sneloj2","slide":4,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":4,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":4,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"text":"분석 범위와 한계","textPreview":"분석 범위와 한계","textChars":9,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/eloj2t83","slide":4,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/7u54zido","slide":4,"bbox":[72,190,250,130]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":4,"text":"기간","textPreview":"기간","textChars":2,"textLines":1,"bbox":[94,210,206,28]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":4,"text":"2015.01-2021.06","textPreview":"2015.01-2021.06","textChars":15,"textLines":1,"bbox":[94,245,206,56]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":4,"bbox":[352,190,250,130]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":4,"text":"원천 행 수","textPreview":"원천 행 수","textChars":6,"textLines":1,"bbox":[374,210,206,28]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":4,"text":"45,338행","textPreview":"45,338행","textChars":7,"textLines":1,"bbox":[374,245,206,56]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":4,"bbox":[632,190,280,130]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":4,"text":"Long 변환","textPreview":"Long 변환","textChars":7,"textLines":1,"bbox":[654,210,236,28]}
+{"kind":"textbox","id":"sh/83itgfml","slide":4,"text":"1,088,112행","textPreview":"1,088,112행","textChars":10,"textLines":1,"bbox":[654,245,236,56]}
+{"kind":"shape","id":"sh/xobm58z2","slide":4,"bbox":[942,190,250,130]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":4,"text":"지도 매칭","textPreview":"지도 매칭","textChars":5,"textLines":1,"bbox":[964,210,206,28]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":4,"text":"601/685","textPreview":"601/685","textChars":7,"textLines":1,"bbox":[964,245,206,56]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":4,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[92,390,22,30]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":4,"text":"혼잡도는 실제 열차 혼잡률이 아니라 승하차 유동량 기반 대리지표다.","textPreview":"혼잡도는 실제 열차 혼잡률이 아니라 승하차 유동량 기반 대리지표다.","textChars":37,"textLines":1,"bbox":[122,390,1050,42]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":4,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[92,446,22,30]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":4,"text":"차량 정원, 운행 횟수, 승강장 면적이 없으므로 실제 혼잡률은 확인 필요다.","textPreview":"차량 정원, 운행 횟수, 승강장 면적이 없으므로 실제 혼잡률은 확인 필요다.","textChars":42,"textLines":1,"bbox":[122,446,1050,42]}
+{"kind":"textbox","id":"sh/54zidony","slide":4,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[92,502,22,30]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":4,"text":"월 단위 집계 데이터이므로 일별 이벤트와 열차 1편 단위 혼잡은 제외한다.","textPreview":"월 단위 집계 데이터이므로 일별 이벤트와 열차 1편 단위 혼잡은 제외한다.","textChars":41,"textLines":1,"bbox":[122,502,1050,42]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":4,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/dn5y6g","slide":4,"text":""}
+{"kind":"slide","id":"sl/r2vgo3","slide":5,"title":"02 Evidence","textShapes":9}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":5,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,48,240,30]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":5,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/7adsji5s","slide":5,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":5,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/psfil0rq","slide":5,"bbox":[835,69,94,3]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":5,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":5,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":5,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":5,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":5,"text":"피라미드 근거와 통계 분석","textPreview":"피라미드 근거와 통계 분석","textChars":14,"textLines":1,"bbox":[42,210,1000,95]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":5,"text":"핵심 주장을 세 개의 MECE 근거로 분해하고 통계로 확인한다.","textPreview":"핵심 주장을 세 개의 MECE 근거로 분해하고 통계로 확인한다.","textChars":35,"textLines":1,"bbox":[48,325,900,70]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":5,"bbox":[42,625,1196,2]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":5,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/r2vgo3","slide":5,"text":""}
+{"kind":"slide","id":"sl/p13zt2","slide":6,"title":"02 Evidence","textShapes":17}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":6,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":6,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/gvy90je9","slide":6,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":6,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":6,"bbox":[835,69,94,3]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":6,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":6,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":6,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":6,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":6,"text":"피라미드 구조: 주장 → 근거 → 데이터 → 통계분석","textPreview":"피라미드 구조: 주장 → 근거 → 데이터 → 통계분석","textChars":29,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":6,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":6,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"textbox","id":"sh/83itgfml","slide":6,"text":"서울 지하철 혼잡 관리는 전체 평균이 아니라 피크 시간대, 고혼잡 역, 승하차 방향성 기준으로 선별 설계해야 한다.","textPreview":"서울 지하철 혼잡 관리는 전체 평균이 아니라 피크 시간대, 고혼잡 역, 승하차 방향성 기준으로 선별 설계해야 한다.","textChars":64,"textLines":1,"bbox":[90,170,1100,62]}
+{"kind":"shape","id":"sh/xobm58z2","slide":6,"bbox":[72,275,350,245]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":6,"text":"[근거 1]\n시간대별 집중","textPreview":"[근거 1] | 시간대별 집중","textChars":14,"textLines":2,"bbox":[96,300,300,68]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":6,"text":"데이터: 시간대별 유동량\n통계: Kruskal-Wallis\n효과: epsilon²","textPreview":"데이터: 시간대별 유동량 | 통계: Kruskal-Wallis | 효과: epsilon²","textChars":45,"textLines":3,"bbox":[96,390,300,96]}
+{"kind":"shape","id":"sh/4zidonyd","slide":6,"bbox":[462,275,350,245]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":6,"text":"[근거 2]\n공간별 집중","textPreview":"[근거 2] | 공간별 집중","textChars":13,"textLines":2,"bbox":[486,300,300,68]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":6,"text":"데이터: 노선·역별 유동량\n통계: Kruskal-Wallis\n집중도: 상위 역 비중","textPreview":"데이터: 노선·역별 유동량 | 통계: Kruskal-Wallis | 집중도: 상위 역 비중","textChars":46,"textLines":3,"bbox":[486,390,300,96]}
+{"kind":"shape","id":"sh/8v6psfil","slide":6,"bbox":[852,275,350,245]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":6,"text":"[근거 3]\n흐름별 유형","textPreview":"[근거 3] | 흐름별 유형","textChars":13,"textLines":2,"bbox":[876,300,300,68]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":6,"text":"데이터: 승차·하차 비중\n통계: 카이제곱 검정\n효과: Cramer's V","textPreview":"데이터: 승차·하차 비중 | 통계: 카이제곱 검정 | 효과: Cramer's V","textChars":40,"textLines":3,"bbox":[876,390,300,96]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":6,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/p13zt2","slide":6,"text":""}
+{"kind":"slide","id":"sl/r0ettq","slide":7,"title":"02 Evidence","textShapes":26}
+{"kind":"textbox","id":"sh/m94fu18j","slide":7,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":7,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":7,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":7,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":7,"bbox":[835,69,94,3]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":7,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/83itgfml","slide":7,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":7,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":7,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":7,"text":"통계 분석 요약: 세 근거 모두 실행 판단을 뒷받침한다","textPreview":"통계 분석 요약: 세 근거 모두 실행 판단을 뒷받침한다","textChars":30,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":7,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":7,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":7,"bbox":[54,180,257.84,92]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":7,"text":"피라미드 근거","textPreview":"피라미드 근거","textChars":7,"textLines":1,"bbox":[64,188,237.84,80]}
+{"kind":"shape","id":"sh/61032lsz","slide":7,"bbox":[311.84,180,234.4,92]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":7,"text":"검정","textPreview":"검정","textChars":2,"textLines":1,"bbox":[321.84,188,214.4,80]}
+{"kind":"shape","id":"sh/ovahoza1","slide":7,"bbox":[546.24,180,386.76,92]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":7,"text":"결과","textPreview":"결과","textChars":2,"textLines":1,"bbox":[556.24,188,366.76,80]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":7,"bbox":[933,180,293,92]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":7,"text":"해석","textPreview":"해석","textChars":2,"textLines":1,"bbox":[943,188,273,80]}
+{"kind":"shape","id":"sh/ji5snelo","slide":7,"bbox":[54,272,257.84,92]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":7,"text":"시간대별 집중","textPreview":"시간대별 집중","textChars":7,"textLines":1,"bbox":[64,280,237.84,80]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":7,"bbox":[311.84,272,234.4,92]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":7,"text":"Kruskal-Wallis","textPreview":"Kruskal-Wallis","textChars":14,"textLines":1,"bbox":[321.84,280,214.4,80]}
+{"kind":"shape","id":"sh/j6tovaho","slide":7,"bbox":[546.24,272,386.76,92]}
+{"kind":"textbox","id":"sh/ulwval87","slide":7,"text":"H=1720.9, p<0.001, ε²=0.919","textPreview":"H=1720.9, p<0.001, ε²=0.919","textChars":27,"textLines":1,"bbox":[556.24,280,366.76,80]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":7,"bbox":[933,272,293,92]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":7,"text":"피크 집중 관리 근거","textPreview":"피크 집중 관리 근거","textChars":11,"textLines":1,"bbox":[943,280,273,80]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":7,"bbox":[54,364,257.84,92]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":7,"text":"공간별 집중","textPreview":"공간별 집중","textChars":6,"textLines":1,"bbox":[64,372,237.84,80]}
+{"kind":"shape","id":"sh/4nap4r65","slide":7,"bbox":[311.84,364,234.4,92]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":7,"text":"Kruskal-Wallis","textPreview":"Kruskal-Wallis","textChars":14,"textLines":1,"bbox":[321.84,372,214.4,80]}
+{"kind":"shape","id":"sh/m58z25kb","slide":7,"bbox":[546.24,364,386.76,92]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":7,"text":"H=1840.6, p<0.001, ε²=0.971","textPreview":"H=1840.6, p<0.001, ε²=0.971","textChars":27,"textLines":1,"bbox":[556.24,372,366.76,80]}
+{"kind":"shape","id":"sh/4byhgn29","slide":7,"bbox":[933,364,293,92]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":7,"text":"고혼잡 역 우선순위 근거","textPreview":"고혼잡 역 우선순위 근거","textChars":13,"textLines":1,"bbox":[943,372,273,80]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":7,"bbox":[54,456,257.84,92]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":7,"text":"흐름별 유형","textPreview":"흐름별 유형","textChars":6,"textLines":1,"bbox":[64,464,237.84,80]}
+{"kind":"shape","id":"sh/vixczed8","slide":7,"bbox":[311.84,456,234.4,92]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":7,"text":"Chi-square","textPreview":"Chi-square","textChars":10,"textLines":1,"bbox":[321.84,464,214.4,80]}
+{"kind":"shape","id":"sh/donyd0z6","slide":7,"bbox":[546.24,456,386.76,92]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":7,"text":"χ²=102.4, p<0.001, V=0.273","textPreview":"χ²=102.4, p<0.001, V=0.273","textChars":26,"textLines":1,"bbox":[556.24,464,366.76,80]}
+{"kind":"shape","id":"sh/val87ed8","slide":7,"bbox":[933,456,293,92]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":7,"text":"역 유형별 대응 근거","textPreview":"역 유형별 대응 근거","textChars":11,"textLines":1,"bbox":[943,464,273,80]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":7,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/r0ettq","slide":7,"text":""}
+{"kind":"slide","id":"sl/aurljz","slide":8,"title":"03 Visualization","textShapes":9}
+{"kind":"textbox","id":"sh/61032lsz","slide":8,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,48,240,30]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":8,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":8,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":8,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":8,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":8,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/oj2t83it","slide":8,"bbox":[961,69,94,3]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":8,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":8,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":8,"text":"혼잡 패턴 시각화","textPreview":"혼잡 패턴 시각화","textChars":9,"textLines":1,"bbox":[42,210,1000,95]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":8,"text":"시간, 노선, 역, 흐름, 공간 관점에서 혼잡의 위치를 확인한다.","textPreview":"시간, 노선, 역, 흐름, 공간 관점에서 혼잡의 위치를 확인한다.","textChars":36,"textLines":1,"bbox":[48,325,900,70]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":8,"bbox":[42,625,1196,2]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":8,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/aurljz","slide":8,"text":""}
+{"kind":"slide","id":"sl/7847ku","slide":9,"title":"03 Visualization","textShapes":11}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":9,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":9,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/at47y1kr","slide":9,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":9,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/sneloj2t","slide":9,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":9,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":9,"bbox":[961,69,94,3]}
+{"kind":"textbox","id":"sh/lwval87e","slide":9,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":9,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"text":"시간대별 유동량: 08시-09시가 최혼잡","textPreview":"시간대별 유동량: 08시-09시가 최혼잡","textChars":22,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/v6psfil0","slide":9,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/knih4byh","slide":9,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":9,"text":"출근 피크 대응은 상시 평균보다 효과적인 운영 단위다.","textPreview":"출근 피크 대응은 상시 평균보다 효과적인 운영 단위다.","textChars":30,"textLines":1,"bbox":[88,608,1000,32]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":9,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/d0z61032","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"chart","id":"ch/ytsvu9kn","slide":9,"name":"","chartType":"line","bbox":[72,185,1120,405]}
+{"kind":"notes","id":"nt/7847ku","slide":9,"text":""}
+{"kind":"slide","id":"sl/c26irq","slide":10,"title":"03 Visualization","textShapes":10}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":10,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":10,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":10,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/83itgfml","slide":10,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/xobm58z2","slide":10,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":10,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":10,"bbox":[961,69,94,3]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":10,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":10,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":10,"text":"노선별 유동량: 2호선이 최상위 혼잡 축","textPreview":"노선별 유동량: 2호선이 최상위 혼잡 축","textChars":22,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":10,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":10,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":10,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"chart","id":"ch/h0fepkzu","slide":10,"name":"","chartType":"bar","bbox":[82,180,1080,420]}
+{"kind":"notes","id":"nt/c26irq","slide":10,"text":""}
+{"kind":"slide","id":"sl/z1s0fm","slide":11,"title":"03 Visualization","textShapes":10}
+{"kind":"textbox","id":"sh/72x4nap4","slide":11,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":11,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":11,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":11,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/7ed8bat4","slide":11,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/0z61032l","slide":11,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":11,"bbox":[961,69,94,3]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":11,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":11,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":11,"text":"역별 유동량: 상위 역 중심의 우선순위가 필요","textPreview":"역별 유동량: 상위 역 중심의 우선순위가 필요","textChars":25,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/m94fu18j","slide":11,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":11,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":11,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"chart","id":"ch/bq1oryts","slide":11,"name":"","chartType":"bar","bbox":[82,180,1080,420]}
+{"kind":"notes","id":"nt/z1s0fm","slide":11,"text":""}
+{"kind":"slide","id":"sl/zrcahz","slide":12,"title":"03 Visualization","textShapes":12}
+{"kind":"textbox","id":"sh/oj2t83it","slide":12,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":12,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":12,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":12,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":12,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":12,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/61032lsz","slide":12,"bbox":[961,69,94,3]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":12,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/ovahoza1","slide":12,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":12,"text":"피크별 승하차 흐름 유형은 다르다","textPreview":"피크별 승하차 흐름 유형은 다르다","textChars":18,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/fepkzupw","slide":12,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":12,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":12,"text":"출근·퇴근 피크의 승차형/하차형/혼합형 분포가 다르므로 대응도 달라져야 한다.","textPreview":"출근·퇴근 피크의 승차형/하차형/혼합형 분포가 다르므로 대응도 달라져야 한다.","textChars":43,"textLines":1,"bbox":[895,235,280,170]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":12,"text":"승차형: 대기열\n하차형: 출구 동선\n혼합형: 환승 병목","textPreview":"승차형: 대기열 | 하차형: 출구 동선 | 혼합형: 환승 병목","textChars":30,"textLines":3,"bbox":[895,425,280,120]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":12,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"chart","id":"ch/qd4vmtwr","slide":12,"name":"","chartType":"bar","bbox":[80,185,780,395]}
+{"kind":"notes","id":"nt/zrcahz","slide":12,"text":""}
+{"kind":"slide","id":"sl/rzry8h","slide":13,"title":"03 Visualization","textShapes":17}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":13,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":13,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":13,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":13,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":13,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":13,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/32lszqtc","slide":13,"bbox":[961,69,94,3]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":13,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/lwval87e","slide":13,"bbox":[1087,69,94,1]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":13,"text":"GeoJSON 지도: 공간적으로도 혼잡 지점 확인 가능","textPreview":"GeoJSON 지도: 공간적으로도 혼잡 지점 확인 가능","textChars":30,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":13,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":13,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/svu9knih","slide":13,"bbox":[875,188,300,130]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":13,"text":"좌표 매칭","textPreview":"좌표 매칭","textChars":5,"textLines":1,"bbox":[897,208,256,28]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":13,"text":"601/685","textPreview":"601/685","textChars":7,"textLines":1,"bbox":[897,243,256,56]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":13,"bbox":[875,338,300,130]}
+{"kind":"textbox","id":"sh/sji5snel","slide":13,"text":"상위 5개 역 비중","textPreview":"상위 5개 역 비중","textChars":10,"textLines":1,"bbox":[897,358,256,28]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":13,"text":"5.1%","textPreview":"5.1%","textChars":4,"textLines":1,"bbox":[897,393,256,56]}
+{"kind":"shape","id":"sh/xs72x4na","slide":13,"bbox":[875,488,300,130]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":13,"text":"상위 20개 역 비중","textPreview":"상위 20개 역 비중","textChars":11,"textLines":1,"bbox":[897,508,256,28]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":13,"text":"15.0%","textPreview":"15.0%","textChars":5,"textLines":1,"bbox":[897,543,256,56]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":13,"text":"GeoJSON 포인트를 지도 이미지로 변환해 고혼잡 역의 공간 분포를 확인한다.","textPreview":"GeoJSON 포인트를 지도 이미지로 변환해 고혼잡 역의 공간 분포를 확인한다.","textChars":44,"textLines":1,"bbox":[82,612,1040,30]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":13,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"image","id":"im/6psfil0r","slide":13,"name":"","alt":"역별 상대혼잡도 지도 이미지","bbox":[70,178,760,430]}
+{"kind":"notes","id":"nt/rzry8h","slide":13,"text":""}
+{"kind":"slide","id":"sl/6xagzp","slide":14,"title":"04 Action Plan","textShapes":9}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":14,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,48,240,30]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":14,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":14,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":14,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/epkzupwb","slide":14,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":14,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/wval87ed","slide":14,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":14,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/eloj2t83","slide":14,"bbox":[1087,69,94,3]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":14,"text":"So What? 실행 계획","textPreview":"So What? 실행 계획","textChars":14,"textLines":1,"bbox":[42,210,1000,95]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":14,"text":"분석 결과를 운영 자원 배치와 모니터링 체계로 연결한다.","textPreview":"분석 결과를 운영 자원 배치와 모니터링 체계로 연결한다.","textChars":31,"textLines":1,"bbox":[48,325,900,70]}
+{"kind":"shape","id":"sh/eloj2t83","slide":14,"bbox":[42,625,1196,2]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":14,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/6xagzp","slide":14,"text":""}
+{"kind":"slide","id":"sl/czc58q","slide":15,"title":"04 Action Plan","textShapes":55}
+{"kind":"textbox","id":"sh/sneloj2t","slide":15,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":15,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":15,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":15,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":15,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":15,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/at47y1kr","slide":15,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":15,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":15,"bbox":[1087,69,94,3]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":15,"text":"우선순위 점수: A등급 69개 역부터 관리","textPreview":"우선순위 점수: A등급 69개 역부터 관리","textChars":23,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/nyd0z610","slide":15,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":15,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/54zidony","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":15,"bbox":[76,180,112,54]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":15,"text":"순위","textPreview":"순위","textChars":2,"textLines":1,"bbox":[86,188,92,42]}
+{"kind":"shape","id":"sh/cvixczed","slide":15,"bbox":[188,180,403.2,54]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":15,"text":"역","textPreview":"역","textChars":1,"textLines":1,"bbox":[198,188,383.2,42]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":15,"bbox":[591.2,180,179.2,54]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":15,"text":"점수","textPreview":"점수","textChars":2,"textLines":1,"bbox":[601.2,188,159.2,42]}
+{"kind":"shape","id":"sh/bm58z25k","slide":15,"bbox":[770.4,180,134.4,54]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":15,"text":"등급","textPreview":"등급","textChars":2,"textLines":1,"bbox":[780.4,188,114.4,42]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":15,"bbox":[904.8,180,291.2,54]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":15,"text":"피크유동량","textPreview":"피크유동량","textChars":5,"textLines":1,"bbox":[914.8,188,271.2,42]}
+{"kind":"shape","id":"sh/bat47y1k","slide":15,"bbox":[76,234,112,54]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":15,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[86,242,92,42]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":15,"bbox":[188,234,403.2,54]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":15,"text":"2호선 강남","textPreview":"2호선 강남","textChars":6,"textLines":1,"bbox":[198,242,383.2,42]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":15,"bbox":[591.2,234,179.2,54]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":15,"text":"1.000","textPreview":"1.000","textChars":5,"textLines":1,"bbox":[601.2,242,159.2,42]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":15,"bbox":[770.4,234,134.4,54]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,242,114.4,42]}
+{"kind":"shape","id":"sh/ed8bat47","slide":15,"bbox":[904.8,234,291.2,54]}
+{"kind":"textbox","id":"sh/7u54zido","slide":15,"text":"19,752만","textPreview":"19,752만","textChars":7,"textLines":1,"bbox":[914.8,242,271.2,42]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":15,"bbox":[76,288,112,54]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":15,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[86,296,92,42]}
+{"kind":"shape","id":"sh/eloj2t83","slide":15,"bbox":[188,288,403.2,54]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":15,"text":"2호선 신림","textPreview":"2호선 신림","textChars":6,"textLines":1,"bbox":[198,296,383.2,42]}
+{"kind":"shape","id":"sh/wval87ed","slide":15,"bbox":[591.2,288,179.2,54]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":15,"text":"0.724","textPreview":"0.724","textChars":5,"textLines":1,"bbox":[601.2,296,159.2,42]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":15,"bbox":[770.4,288,134.4,54]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,296,114.4,42]}
+{"kind":"shape","id":"sh/zidonyd0","slide":15,"bbox":[904.8,288,291.2,54]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":15,"text":"14,581만","textPreview":"14,581만","textChars":7,"textLines":1,"bbox":[914.8,296,271.2,42]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":15,"bbox":[76,342,112,54]}
+{"kind":"textbox","id":"sh/svu9knih","slide":15,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[86,350,92,42]}
+{"kind":"shape","id":"sh/za1gvy90","slide":15,"bbox":[188,342,403.2,54]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":15,"text":"2호선 홍대입구","textPreview":"2호선 홍대입구","textChars":8,"textLines":1,"bbox":[198,350,383.2,42]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":15,"bbox":[591.2,342,179.2,54]}
+{"kind":"textbox","id":"sh/sji5snel","slide":15,"text":"0.721","textPreview":"0.721","textChars":5,"textLines":1,"bbox":[601.2,350,159.2,42]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":15,"bbox":[770.4,342,134.4,54]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,350,114.4,42]}
+{"kind":"shape","id":"sh/knih4byh","slide":15,"bbox":[904.8,342,291.2,54]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":15,"text":"13,149만","textPreview":"13,149만","textChars":7,"textLines":1,"bbox":[914.8,350,271.2,42]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":15,"bbox":[76,396,112,54]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":15,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[86,404,92,42]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":15,"bbox":[188,396,403.2,54]}
+{"kind":"textbox","id":"sh/d0z61032","slide":15,"text":"2호선 구로디지털단지","textPreview":"2호선 구로디지털단지","textChars":11,"textLines":1,"bbox":[198,404,383.2,42]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":15,"bbox":[591.2,396,179.2,54]}
+{"kind":"textbox","id":"sh/vixczed8","slide":15,"text":"0.691","textPreview":"0.691","textChars":5,"textLines":1,"bbox":[601.2,404,159.2,42]}
+{"kind":"shape","id":"sh/neloj2t8","slide":15,"bbox":[770.4,396,134.4,54]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,404,114.4,42]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":15,"bbox":[904.8,396,291.2,54]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":15,"text":"14,748만","textPreview":"14,748만","textChars":7,"textLines":1,"bbox":[914.8,404,271.2,42]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":15,"bbox":[76,450,112,54]}
+{"kind":"textbox","id":"sh/u54zidon","slide":15,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[86,458,92,42]}
+{"kind":"shape","id":"sh/5sneloj2","slide":15,"bbox":[188,450,403.2,54]}
+{"kind":"textbox","id":"sh/cbulwval","slide":15,"text":"2호선 신도림","textPreview":"2호선 신도림","textChars":7,"textLines":1,"bbox":[198,458,383.2,42]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":15,"bbox":[591.2,450,179.2,54]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":15,"text":"0.601","textPreview":"0.601","textChars":5,"textLines":1,"bbox":[601.2,458,159.2,42]}
+{"kind":"shape","id":"sh/87ed8bat","slide":15,"bbox":[770.4,450,134.4,54]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,458,114.4,42]}
+{"kind":"shape","id":"sh/q1orytsv","slide":15,"bbox":[904.8,450,291.2,54]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":15,"text":"11,832만","textPreview":"11,832만","textChars":7,"textLines":1,"bbox":[914.8,458,271.2,42]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":15,"bbox":[76,504,112,54]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":15,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[86,512,92,42]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":15,"bbox":[188,504,403.2,54]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":15,"text":"2호선 잠실(송파구청)","textPreview":"2호선 잠실(송파구청)","textChars":12,"textLines":1,"bbox":[198,512,383.2,42]}
+{"kind":"shape","id":"sh/8v6psfil","slide":15,"bbox":[591.2,504,179.2,54]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":15,"text":"0.595","textPreview":"0.595","textChars":5,"textLines":1,"bbox":[601.2,512,159.2,42]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":15,"bbox":[770.4,504,134.4,54]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,512,114.4,42]}
+{"kind":"shape","id":"sh/neloj2t8","slide":15,"bbox":[904.8,504,291.2,54]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":15,"text":"11,743만","textPreview":"11,743만","textChars":7,"textLines":1,"bbox":[914.8,512,271.2,42]}
+{"kind":"shape","id":"sh/5sneloj2","slide":15,"bbox":[76,558,112,54]}
+{"kind":"textbox","id":"sh/cbulwval","slide":15,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[86,566,92,42]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":15,"bbox":[188,558,403.2,54]}
+{"kind":"textbox","id":"sh/u54zidon","slide":15,"text":"2호선 선릉","textPreview":"2호선 선릉","textChars":6,"textLines":1,"bbox":[198,566,383.2,42]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":15,"bbox":[591.2,558,179.2,54]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":15,"text":"0.552","textPreview":"0.552","textChars":5,"textLines":1,"bbox":[601.2,566,159.2,42]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":15,"bbox":[770.4,558,134.4,54]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,566,114.4,42]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":15,"bbox":[904.8,558,291.2,54]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":15,"text":"11,640만","textPreview":"11,640만","textChars":7,"textLines":1,"bbox":[914.8,566,271.2,42]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":15,"bbox":[76,612,112,54]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":15,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[86,620,92,42]}
+{"kind":"shape","id":"sh/8v6psfil","slide":15,"bbox":[188,612,403.2,54]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":15,"text":"2호선 역삼","textPreview":"2호선 역삼","textChars":6,"textLines":1,"bbox":[198,620,383.2,42]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":15,"bbox":[591.2,612,179.2,54]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":15,"text":"0.549","textPreview":"0.549","textChars":5,"textLines":1,"bbox":[601.2,620,159.2,42]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":15,"bbox":[770.4,612,134.4,54]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":15,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[780.4,620,114.4,42]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":15,"bbox":[904.8,612,291.2,54]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":15,"text":"12,003만","textPreview":"12,003만","textChars":7,"textLines":1,"bbox":[914.8,620,271.2,42]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":15,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/lwval87e","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/czc58q","slide":15,"text":""}
+{"kind":"slide","id":"sl/s6a4eu","slide":16,"title":"04 Action Plan","textShapes":22}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":16,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":16,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":16,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/lwval87e","slide":16,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":16,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":16,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":16,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":16,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/sneloj2t","slide":16,"bbox":[1087,69,94,3]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":16,"text":"역 유형별 Action Plan","textPreview":"역 유형별 Action Plan","textChars":17,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/fyxobm58","slide":16,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":16,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":16,"bbox":[76,190,179.2,88]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":16,"text":"유형","textPreview":"유형","textChars":2,"textLines":1,"bbox":[86,198,159.2,76]}
+{"kind":"shape","id":"sh/8v6psfil","slide":16,"bbox":[255.2,190,369.6,88]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":16,"text":"혼잡 구조","textPreview":"혼잡 구조","textChars":5,"textLines":1,"bbox":[265.2,198,349.6,76]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":16,"bbox":[624.8,190,571.2,88]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":16,"text":"실행안","textPreview":"실행안","textChars":3,"textLines":1,"bbox":[634.8,198,551.2,76]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":16,"bbox":[76,278,179.2,88]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":16,"text":"승차형","textPreview":"승차형","textChars":3,"textLines":1,"bbox":[86,286,159.2,76]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":16,"bbox":[255.2,278,369.6,88]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":16,"text":"승강장 진입 전 대기열 증가","textPreview":"승강장 진입 전 대기열 증가","textChars":15,"textLines":1,"bbox":[265.2,286,349.6,76]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":16,"bbox":[624.8,278,571.2,88]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":16,"text":"개찰구·승강장 진입 안내, 대기열 분산","textPreview":"개찰구·승강장 진입 안내, 대기열 분산","textChars":21,"textLines":1,"bbox":[634.8,286,551.2,76]}
+{"kind":"shape","id":"sh/9knih4by","slide":16,"bbox":[76,366,179.2,88]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":16,"text":"하차형","textPreview":"하차형","textChars":3,"textLines":1,"bbox":[86,374,159.2,76]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":16,"bbox":[255.2,366,369.6,88]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":16,"text":"출구·환승 동선 병목","textPreview":"출구·환승 동선 병목","textChars":11,"textLines":1,"bbox":[265.2,374,349.6,76]}
+{"kind":"shape","id":"sh/cj6tovah","slide":16,"bbox":[624.8,366,571.2,88]}
+{"kind":"textbox","id":"sh/54zidony","slide":16,"text":"하차 동선 분산, 출구 안내, 환승 방향 분리","textPreview":"하차 동선 분산, 출구 안내, 환승 방향 분리","textChars":25,"textLines":1,"bbox":[634.8,374,551.2,76]}
+{"kind":"shape","id":"sh/udg7adsj","slide":16,"bbox":[76,454,179.2,88]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":16,"text":"혼합형","textPreview":"혼합형","textChars":3,"textLines":1,"bbox":[86,462,159.2,76]}
+{"kind":"shape","id":"sh/cvixczed","slide":16,"bbox":[255.2,454,369.6,88]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":16,"text":"승차·하차가 동시에 높음","textPreview":"승차·하차가 동시에 높음","textChars":13,"textLines":1,"bbox":[265.2,462,349.6,76]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":16,"bbox":[624.8,454,571.2,88]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":16,"text":"승하차 동선 분리, 환승 병목 집중 관리","textPreview":"승하차 동선 분리, 환승 병목 집중 관리","textChars":22,"textLines":1,"bbox":[634.8,462,551.2,76]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":16,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/s6a4eu","slide":16,"text":""}
+{"kind":"slide","id":"sl/sd2dzw","slide":17,"title":"04 Action Plan","textShapes":22}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":17,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":17,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":17,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":17,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/0je9cvix","slide":17,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":17,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/idonyd0z","slide":17,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":17,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/0fepkzup","slide":17,"bbox":[1087,69,94,3]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":17,"text":"30-60-90일 실행 로드맵","textPreview":"30-60-90일 실행 로드맵","textChars":16,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/7ed8bat4","slide":17,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/0z61032l","slide":17,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":17,"bbox":[76,190,179.2,95]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":17,"text":"기간","textPreview":"기간","textChars":2,"textLines":1,"bbox":[86,198,159.2,83]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":17,"bbox":[255.2,190,582.4,95]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":17,"text":"실행","textPreview":"실행","textChars":2,"textLines":1,"bbox":[265.2,198,562.4,83]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":17,"bbox":[837.6,190,358.4,95]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":17,"text":"성과 지표","textPreview":"성과 지표","textChars":5,"textLines":1,"bbox":[847.6,198,338.4,83]}
+{"kind":"shape","id":"sh/j6tovaho","slide":17,"bbox":[76,285,179.2,95]}
+{"kind":"textbox","id":"sh/ulwval87","slide":17,"text":"30일","textPreview":"30일","textChars":3,"textLines":1,"bbox":[86,293,159.2,83]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":17,"bbox":[255.2,285,582.4,95]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":17,"text":"A등급 역 현장 점검 및 피크 안내 강화","textPreview":"A등급 역 현장 점검 및 피크 안내 강화","textChars":22,"textLines":1,"bbox":[265.2,293,562.4,83]}
+{"kind":"shape","id":"sh/ji5snelo","slide":17,"bbox":[837.6,285,358.4,95]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":17,"text":"상위 혼잡 역 커버리지","textPreview":"상위 혼잡 역 커버리지","textChars":12,"textLines":1,"bbox":[847.6,293,338.4,83]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":17,"bbox":[76,380,179.2,95]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":17,"text":"60일","textPreview":"60일","textChars":3,"textLines":1,"bbox":[86,388,159.2,83]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":17,"bbox":[255.2,380,582.4,95]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":17,"text":"승차형·하차형·혼합형별 동선 운영안 적용","textPreview":"승차형·하차형·혼합형별 동선 운영안 적용","textChars":22,"textLines":1,"bbox":[265.2,388,562.4,83]}
+{"kind":"shape","id":"sh/0fepkzup","slide":17,"bbox":[837.6,380,358.4,95]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":17,"text":"피크 시간대 병목 신고 감소","textPreview":"피크 시간대 병목 신고 감소","textChars":15,"textLines":1,"bbox":[847.6,388,338.4,83]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":17,"bbox":[76,475,179.2,95]}
+{"kind":"textbox","id":"sh/bulwval8","slide":17,"text":"90일","textPreview":"90일","textChars":3,"textLines":1,"bbox":[86,483,159.2,83]}
+{"kind":"shape","id":"sh/032lszqt","slide":17,"bbox":[255.2,475,582.4,95]}
+{"kind":"textbox","id":"sh/tovahoza","slide":17,"text":"월별 혼잡도 대시보드 운영","textPreview":"월별 혼잡도 대시보드 운영","textChars":14,"textLines":1,"bbox":[265.2,483,562.4,83]}
+{"kind":"shape","id":"sh/ixczed8v","slide":17,"bbox":[837.6,475,358.4,95]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":17,"text":"우선순위 점수 월별 추적","textPreview":"우선순위 점수 월별 추적","textChars":13,"textLines":1,"bbox":[847.6,483,338.4,83]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":17,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/sd2dzw","slide":17,"text":""}
+{"kind":"slide","id":"sl/hxr4a7","slide":18,"title":"04 Action Plan","textShapes":20}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":18,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,34,360,26]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":18,"text":"01 SCQA","textPreview":"01 SCQA","textChars":7,"textLines":1,"bbox":[700,42,112,24]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":18,"bbox":[709,69,94,1]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":18,"text":"02 Evidence","textPreview":"02 Evidence","textChars":11,"textLines":1,"bbox":[826,42,112,24]}
+{"kind":"shape","id":"sh/8v6psfil","slide":18,"bbox":[835,69,94,1]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":18,"text":"03 Visualization","textPreview":"03 Visualization","textChars":16,"textLines":1,"bbox":[952,42,112,24]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":18,"bbox":[961,69,94,1]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":18,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[1078,42,112,24]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":18,"bbox":[1087,69,94,3]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":18,"text":"최종 의사결정 요청","textPreview":"최종 의사결정 요청","textChars":10,"textLines":1,"bbox":[42,72,940,60]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":18,"bbox":[42,145,1196,1]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":18,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":18,"text":"결론","textPreview":"결론","textChars":2,"textLines":1,"bbox":[78,190,160,34]}
+{"kind":"textbox","id":"sh/z61032ls","slide":18,"text":"서울 지하철 혼잡 관리는 전체 평균이 아니라 피크 시간대, 고혼잡 역, 승하차 흐름 유형 기준으로 선별 설계해야 한다.","textPreview":"서울 지하철 혼잡 관리는 전체 평균이 아니라 피크 시간대, 고혼잡 역, 승하차 흐름 유형 기준으로 선별 설계해야 한다.","textChars":66,"textLines":1,"bbox":[78,240,980,78]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,385,22,30]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":18,"text":"A등급 69개 역을 우선 관리 대상으로 지정","textPreview":"A등급 69개 역을 우선 관리 대상으로 지정","textChars":24,"textLines":1,"bbox":[120,385,1020,42]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,433,22,30]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":18,"text":"08시-09시 중심의 출근 피크 집중 관리","textPreview":"08시-09시 중심의 출근 피크 집중 관리","textChars":23,"textLines":1,"bbox":[120,433,1020,42]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,481,22,30]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":18,"text":"승차형·하차형·혼합형에 따른 현장 운영안 차등 적용","textPreview":"승차형·하차형·혼합형에 따른 현장 운영안 차등 적용","textChars":28,"textLines":1,"bbox":[120,481,1020,42]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,529,22,30]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":18,"text":"월별 혼잡도 지표로 정기 모니터링 체계 구축","textPreview":"월별 혼잡도 지표로 정기 모니터링 체계 구축","textChars":24,"textLines":1,"bbox":[120,529,1020,42]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":18,"text":"04 Action Plan","textPreview":"04 Action Plan","textChars":14,"textLines":1,"bbox":[42,660,500,28]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1180,660,58,28]}
+{"kind":"notes","id":"nt/hxr4a7","slide":18,"text":""}
